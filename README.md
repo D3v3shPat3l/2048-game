@@ -37,3 +37,6 @@ Please make sure your code adheres to the coding standards and includes relevant
 
 ## Enjoy playing the 2048 Game!
 If you have any questions or feedback, feel free to open an issue or contact me. Happy coding!
+
+![image](https://github.com/D3v3shPat3l/2048-game/assets/171942470/ef4c1b2b-c73b-41fb-aef9-a6425fdbd946)
+
